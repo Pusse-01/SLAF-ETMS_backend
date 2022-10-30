@@ -1,0 +1,19 @@
+{
+  "name": "slaf-etms_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pusse-01/SLAF-ETMS_backend.git"
+  },
+  "author": "SimkoLabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pusse-01/SLAF-ETMS_backend/issues"
+  },
+  "homepage": "https://github.com/Pusse-01/SLAF-ETMS_backend#readme"
+}
